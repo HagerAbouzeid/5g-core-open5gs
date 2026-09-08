@@ -1,0 +1,1 @@
+# 5g-core-open5gs
